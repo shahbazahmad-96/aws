@@ -8,7 +8,7 @@
 
     ![figure 1](https://github.com/shahbazahmad-96/aws/blob/main/images/img1.png?raw=true)
 
-* Browse your downloaded key through `ssh` option following steps 1, 2 and 3 as shown in figure 2.
+* Browse your downloaded key through clicking `SSH`, then click on `Auth` and then `Credentials` option following steps 1, 2 and 3 as shown in figure 2.
 
     ![figure 1](https://github.com/shahbazahmad-96/aws/blob/main/images/img2.png?raw=true)
 
