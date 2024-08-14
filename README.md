@@ -26,7 +26,7 @@
     git clone https://your-repo-url
     ```
 
-* To remove a specific fil/folder
+* To remove a specific file/folder
 
     ```
     rm -rf file-name/folder-name
