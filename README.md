@@ -1,5 +1,5 @@
-# AWS README
-## Uploading latest code on aws
+# AWS [EC2] README
+## Uploading latest code on aws [EC2]
 
 * Open putty on your system
 * Add the your host name on the terminal as shown in figure 1.
